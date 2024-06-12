@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ajayrath94
-- 👀 I’m interested in the field of AI-MachineLearning/Deep Learning
-- 🌱 I’m currently working as Business Intelligence Analyst
+- 👀 I work in the Field of AI/ML. Currently learning LLM and Mastering NLP.
+- 🌱 I’m currently working as Business Intelligence Analyst @Lendistry
 - 📫 How to reach me :ajayrath6@gmail.com
 
 <!---
