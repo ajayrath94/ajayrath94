@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ajayrath94
 - 👀 I’m interested in the field of AI-MachineLearning/Deep Learning
-- 🌱 I’m currently Pursuing Masters in Business Analytics from California State University EastBay
-- 💞️ I’m looking for Full Time opportunities in the field of DataAnalytics/Data science
+- 🌱 I’m currently working as Business Intelligence Analyst
 - 📫 How to reach me :ajayrath6@gmail.com
 
 <!---
