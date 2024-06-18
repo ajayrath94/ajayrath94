@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @ajayrath94
 - 👀 I work in the Field of AI/ML. Currently learning LLM and Mastering NLP.
 - 🌱 I’m currently working as Business Intelligence Analyst @Lendistry
-- 📫 How to reach me :ajayrath6@gmail.com
+- 📫 How to reach me :ajayrath6@gmail.com |https://www.linkedin.com/in/ajaykumarrath/
+  
 
 <!---
 ajayrath94/ajayrath94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
