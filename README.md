@@ -9,13 +9,7 @@ Hi there! 👋 I'm Ajay Kumar Rath, a Business Intelligence Engineer in Fintech,
 🔹 Big Data & Cloud: AWS (S3, Lambda, Glue), Databricks, Snowflake
 🔹 Version Control & DevOps: Git, GitHub, Docker, CI/CD Pipelines
 
-📌 Featured Projects
-|Project Name|	                             |Description|
-📊| Data Science Projects	ML & DL projects|  |predictive modeling, and data-driven insights.|
-🧠|LLM & NLP Experiments|	                   |Exploring Large Language Models (LLMs) and NLP applications.
-🏦|Fintech ML Models|                        |AI models for risk assessment, loan default prediction, and fintech insights.
-📈|Business Intelligence Dashboards|         |Tableau & SQL-based business intelligence and financial analytics.
-🔍|Capstone Project|	                       |End-to-end ML project with feature engineering and model evaluation.
+
 
 📬 Let's Connect!
 🔹 Email: ajayrath6@gmail.com
