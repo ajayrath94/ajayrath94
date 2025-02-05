@@ -36,12 +36,28 @@
   
 <table>
   <tr>
-    <td><img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Tableau_Logo.png/150px-Tableau_Logo.png" width="100"/></td>
-    <td><strong>Tableau Desktop Specialist</strong></td>
+    <td>
+      <a href="https://www.credly.com/badges/86109f50-0959-47f7-8c48-14ed4342f6df/public_url" target="_blank">
+        <img src="https://images.credly.com/size/110x110/images/68448c12-790f-4369-855c-3efc16d37a99/image.png" width="120" alt="Tableau Desktop Specialist"/>
+      </a>
+    </td>
+    <td>
+      <strong>Tableau Desktop Specialist</strong>
+      <br>
+      <a href="https://www.credly.com/badges/86109f50-0959-47f7-8c48-14ed4342f6df/public_url" target="_blank">View Certification</a>
+    </td>
   </tr>
   <tr>
-    <td><img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.4f3da37ed05bc13c61a6df6e360c435ec7286a14.png" width="100"/></td>
-    <td><strong>AWS Certified Cloud Practitioner</strong></td>
+    <td>
+      <a href="https://www.credly.com/badges/cf309223-554d-4243-8bf2-90b3afc10897/public_url" target="_blank">
+        <img src="https://images.credly.com/size/110x110/images/6848b92e-2fa2-44f4-8cfd-af85dc52e2bf/image.png" width="120" alt="AWS Certified Cloud Practitioner"/>
+      </a>
+    </td>
+    <td>
+      <strong>AWS Certified Cloud Practitioner</strong>
+      <br>
+      <a href="https://www.credly.com/badges/cf309223-554d-4243-8bf2-90b3afc10897/public_url" target="_blank">View Certification</a>
+    </td>
   </tr>
 </table>
 
