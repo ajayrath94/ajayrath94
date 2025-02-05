@@ -24,6 +24,10 @@
         <img src="https://img.shields.io/badge/Apache%20Superset-273347?style=for-the-badge&logo=apache-superset&logoColor=white"/>
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
         <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LLM-0055A4?style=for-the-badge&logo=ai&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Machine%20Learning-4CAF50?style=for-the-badge&logo=machine-learning&logoColor=white"/>
         <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
       </p>
     </td>
@@ -50,51 +54,4 @@
   <tr>
     <td>
       <a href="https://www.credly.com/badges/cf309223-554d-4243-8bf2-90b3afc10897/public_url" target="_blank">
-        <img src="https://images.credly.com/size/110x110/images/6848b92e-2fa2-44f4-8cfd-af85dc52e2bf/image.png" width="120" alt="AWS Certified Cloud Practitioner"/>
-      </a>
-    </td>
-    <td>
-      <strong>AWS Certified Cloud Practitioner</strong>
-      <br>
-      <a href="https://www.credly.com/badges/cf309223-554d-4243-8bf2-90b3afc10897/public_url" target="_blank">View Certification</a>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📌 **Featured Projects**
-
-<table>
-  <tr>
-    <th>Project Name</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-    <td><strong>📊 Data Science Projects</strong></td>
-    <td>Machine Learning & Deep Learning projects focused on predictive modeling, data analysis, and AI-driven insights.</td>
-  </tr>
-  <tr>
-    <td><strong>🧠 LLM & NLP Experiments</strong></td>
-    <td>Exploring Large Language Models (LLMs) and NLP applications, including text summarization, chatbots, and sentiment analysis.</td>
-  </tr>
-  <tr>
-    <td><strong>🏦 Fintech ML Models</strong></td>
-    <td>AI models for risk assessment, loan default prediction, and fintech-related machine learning insights.</td>
-  </tr>
-  <tr>
-    <td><strong>📈 Business Intelligence Dashboards</strong></td>
-    <td>Tableau & SQL-based business intelligence dashboards for financial analytics and KPI tracking.</td>
-  </tr>
-  <tr>
-    <td><strong>🔍 Capstone Project</strong></td>
-    <td>An end-to-end machine learning project covering feature engineering, model evaluation, and business impact analysis.</td>
-  </tr>
-</table>
-
----
-
-### 📬 **Let's Connect!**
-📧 **Email:** ajayrath6@gmail.com  
-🔗 **LinkedIn:** [Ajay Kumar Rath](https://www.linkedin.com/in/ajaykumarrath/)  
-🚀 **GitHub:** [ajayrath94](https://github.com/ajayrath94)  
+        <img src="https://images.credly.com/size/110x110/images/6848b92e-2fa2-44f4-8cfd-af85dc52e2bf/image.png" width="120" alt
